@@ -20,7 +20,7 @@ class Application(Cog):
     **Use `[p]applysetup` first.**
     """
 
-    __author__ = "saurichable"
+    __author__ = ["saurichable", "Brandjuh"]
     __version__ = "1.0.2"
 
     def __init__(self, bot: Red):
